@@ -1,0 +1,1 @@
+HashCrypt is a pet project written in VB.NET.  The goal is to create a symmetric excryption software that will yeild a diffent output everytime even when the input/password remains the same.
